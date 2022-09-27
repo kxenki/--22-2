@@ -14,9 +14,9 @@
 
 Работа с командным проектом:
 1. Проект. 
-[Ссылка на Git-репозиторий проекта] (https://github.com/kxenki/IT_Project)
+[Ссылка на Git-репозиторий проекта](https://github.com/kxenki/IT_Project)
 2. Лендинг проекта. 
-[ тут будет Ссылка на лендинг проекта] (https://github.com/kxenki/IT_SyrichKseniia_22-02)
+[ тут будет Ссылка на лендинг проекта](https://github.com/kxenki/IT_SyrichKseniia_22-02)
 
 ### Лабораторная работа № 3.
 
