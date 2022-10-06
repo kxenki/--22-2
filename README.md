@@ -34,6 +34,7 @@
 
 [Landing Page проекта](https://github.com/kxenki/IT_SyrichKseniia_22-02)
 
+
 ### ✅ Лабораторная работа № 3.
 
 Отчеты о проделанной работе в Cisco Packet Tracer по теме "Настройка локальной сети передачи данных" доступны по ссылке:
@@ -44,3 +45,10 @@
 Ответ на экзаменнационный билет доступен по ссылке:
 
 [Билет № 4](https://github.com/stankin/inet-2022/wiki/exam04)
+#
+### Дополнительные материалы.
+
+Ссылка на "Кондуит", где описаны роль в командном проекте, результаты тестов и посещение:
+
+[Кондуит](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
+
