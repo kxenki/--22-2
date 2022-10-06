@@ -38,7 +38,7 @@
 
 Отчеты о проделанной работе в Cisco Packet Tracer по теме "Настройка локальной сети передачи данных" доступны по ссылке:
 
-[Отчеты Cisco Packet Tracer, Сырич Ксения](https://github.com/kxenki/IT_SyrichKseniia_22-02)
+[Отчеты Cisco Packet Tracer, Сырич Ксения](https://drive.google.com/drive/folders/1AV4jVcu9noetbfa_nWdX42IZAnEYkyI_?usp=sharing)
 #
 ### Написание экзаменационного билета № 4.
 Ответ на экзаменнационный билет доступен по ссылке:
