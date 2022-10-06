@@ -11,6 +11,7 @@
 6. Размещение собственного landing page в репозитории и на хостинге соответственно.
 
 [Ссылка на личный репозиторий (страницу)](https://github.com/kxenki/IT_SyrichKseniia_22-02)
+
 [Ссылка на личный landing page](https://github.com/kxenki/IT_SyrichKseniia_22-02)
 
 ### ✅ Лабораторная работа № 2.
