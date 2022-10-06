@@ -12,7 +12,7 @@
 
 [Ссылка на личный репозиторий (страницу)](https://github.com/kxenki/IT_SyrichKseniia_22-02)
 
-[Ссылка на личный landing page](https://github.com/kxenki/IT_SyrichKseniia_22-02)
+[Ссылка на личный landing page](https://kxenki.github.io/)
 
 ### ✅ Лабораторная работа № 2.
 В рамках 2 лабораторной работы планируется разработать веб-приложение со следующем функционалом:
