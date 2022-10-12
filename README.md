@@ -71,7 +71,7 @@
 
 ## ✅ Лабораторная работа № 3.
 
-- Отчеты о проделанной работе в Cisco Packet Tracer по теме "Настройка локальной сети передачи данных" доступны по ссылке:
+Отчеты о проделанной работе в Cisco Packet Tracer по теме "Настройка локальной сети передачи данных" доступны по ссылке:
 
 [Отчеты Cisco Packet Tracer, Сырич Ксения](https://drive.google.com/drive/folders/1AV4jVcu9noetbfa_nWdX42IZAnEYkyI_?usp=sharing)
 #
