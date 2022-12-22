@@ -17,6 +17,8 @@
 
 ## ✅ Лабораторная работа № 2.
 
+❗ Проект участвует в конкурсе - команда "Звёздочки Станкина" ❗
+
 В рамках 2 лабораторной работы планируется разработать веб-приложение со следующим функционалом:
 
 1. Работа с электронной подписью (ЭП):
@@ -51,24 +53,40 @@
 
 * Репозиторий проекта доступен по ссылке:
 
-[Git-репозиторий проекта](https://github.com/kxenki/IT_Project)
+[IT_Project](https://github.com/kxenki/IT_Project)
 
 * Лендинг (веб-страница с описанием) проекта доступен по ссылке: 
 
-[Landing Page проекта](https://kxenki.github.io/IT_Project)
+[Landing Page](https://kxenki.github.io/IT_Project)
 
+* Репозиторий с Landing Page доступен по ссылке:
+
+[Repository Landing Page](https://github.com/kxenki/IT_Project/tree/LandingPage)
 
 ## ✅ Лабораторная работа № 3.
 
-Отчеты о проделанной работе в Cisco Packet Tracer по теме "Настройка локальной сети передачи данных" доступны по ссылке:
+В рамках 2 лабораторной работы выполнено:
 
-[Отчеты Cisco Packet Tracer, Сырич Ксения](https://drive.google.com/drive/folders/1AV4jVcu9noetbfa_nWdX42IZAnEYkyI_?usp=sharing)
+1. Расчёт IP-адресов и настройка локальных сетей.
+2. Настройка устройств.
+3. Настройка маршрутизации.
+4. Настройка ACL.
+
+Отчетность представлена в виде скриншотов каждого действия в системе Cisco Packet Tracer.
+
+Скриншоты проделанной работы в Cisco Packet Tracer по теме "Настройка локальной сети передачи данных" доступны по ссылке:
+
+[Скриншоты Cisco Packet Tracer, Сырич Ксения](https://drive.google.com/drive/folders/1AV4jVcu9noetbfa_nWdX42IZAnEYkyI_?usp=sharing)
 #
 ### Написание экзаменационного билета № 4.
 
 Ответ на экзаменнационный билет доступен по ссылке:
 
 [Билет № 4](https://github.com/stankin/inet-2022/wiki/exam04)
+
+Ссылка на последний личный коммит:
+
+[Committed](https://github.com/stankin/inet-2022/wiki/exam04/_compare/9beeea6cc9b81c534e7cacc310ad87d3328dcea5)
 
 ### Дополнительные материалы.
 
